@@ -1,0 +1,196 @@
+{
+  "all_38_match": true,
+  "method": "Independent SQLite calculations",
+  "questions": [
+    {
+      "question_id": "q001",
+      "sql_answer": "292272",
+      "match": true
+    },
+    {
+      "question_id": "q002",
+      "sql_answer": "60989",
+      "match": true
+    },
+    {
+      "question_id": "q003",
+      "sql_answer": "119023",
+      "match": true
+    },
+    {
+      "question_id": "q004",
+      "sql_answer": "148354",
+      "match": true
+    },
+    {
+      "question_id": "q005",
+      "sql_answer": "6508",
+      "match": true
+    },
+    {
+      "question_id": "q006",
+      "sql_answer": "8580",
+      "match": true
+    },
+    {
+      "question_id": "q007",
+      "sql_answer": "4369909",
+      "match": true
+    },
+    {
+      "question_id": "q008",
+      "sql_answer": "4126885",
+      "match": true
+    },
+    {
+      "question_id": "q009",
+      "sql_answer": "36.93",
+      "match": true
+    },
+    {
+      "question_id": "q010",
+      "sql_answer": "63643",
+      "match": true
+    },
+    {
+      "question_id": "q011",
+      "sql_answer": "35",
+      "match": true
+    },
+    {
+      "question_id": "q012",
+      "sql_answer": "48732",
+      "match": true
+    },
+    {
+      "question_id": "q013",
+      "sql_answer": "79697",
+      "match": true
+    },
+    {
+      "question_id": "q014",
+      "sql_answer": "54",
+      "match": true
+    },
+    {
+      "question_id": "q015",
+      "sql_answer": "2.61",
+      "match": true
+    },
+    {
+      "question_id": "q016",
+      "sql_answer": "24.5",
+      "match": true
+    },
+    {
+      "question_id": "q017",
+      "sql_answer": "35.2",
+      "match": true
+    },
+    {
+      "question_id": "q018",
+      "sql_answer": "9721370",
+      "match": true
+    },
+    {
+      "question_id": "q019",
+      "sql_answer": "94012",
+      "match": true
+    },
+    {
+      "question_id": "q020",
+      "sql_answer": "3.52",
+      "match": true
+    },
+    {
+      "question_id": "q021",
+      "sql_answer": "5649594",
+      "match": true
+    },
+    {
+      "question_id": "q022",
+      "sql_answer": "49",
+      "match": true
+    },
+    {
+      "question_id": "q023",
+      "sql_answer": "3133339",
+      "match": true
+    },
+    {
+      "question_id": "q024",
+      "sql_answer": "625825",
+      "match": true
+    },
+    {
+      "question_id": "q025",
+      "sql_answer": "66.9",
+      "match": true
+    },
+    {
+      "question_id": "q026",
+      "sql_answer": "58681",
+      "match": true
+    },
+    {
+      "question_id": "q027",
+      "sql_answer": "1482",
+      "match": true
+    },
+    {
+      "question_id": "q028",
+      "sql_answer": "300000",
+      "match": true
+    },
+    {
+      "question_id": "q029",
+      "sql_answer": "35",
+      "match": true
+    },
+    {
+      "question_id": "q030",
+      "sql_answer": "787530",
+      "match": true
+    },
+    {
+      "question_id": "q031",
+      "sql_answer": "76260",
+      "match": true
+    },
+    {
+      "question_id": "q032",
+      "sql_answer": "4.5",
+      "match": true
+    },
+    {
+      "question_id": "q033",
+      "sql_answer": "87774",
+      "match": true
+    },
+    {
+      "question_id": "q034",
+      "sql_answer": "4307",
+      "match": true
+    },
+    {
+      "question_id": "q035",
+      "sql_answer": "23195",
+      "match": true
+    },
+    {
+      "question_id": "q036",
+      "sql_answer": "241",
+      "match": true
+    },
+    {
+      "question_id": "q037",
+      "sql_answer": "646",
+      "match": true
+    },
+    {
+      "question_id": "q038",
+      "sql_answer": "0.13",
+      "match": true
+    }
+  ]
+}
